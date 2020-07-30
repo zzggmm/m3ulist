@@ -1,0 +1,14 @@
+{
+    "RECORDS": [
+        {
+            "name": "脱口秀大会第三季",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-07/1595494964.jpg",
+            "urls": {
+                "20200722上": "https://youku.cdn3-okzy.com/20200723/11294_d7cae119/index.m3u8",
+                "20200722下": "https://youku.cdn3-okzy.com/20200723/11295_d82384cb/index.m3u8",
+                "20200729上": "https://youku.cdn3-okzy.com/20200729/11508_558a9785/index.m3u8",
+                "20200729下": "https://youku.cdn3-okzy.com/20200729/11509_56ba01e8/index.m3u8"
+            }
+        }
+    ]
+}
