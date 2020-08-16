@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "name": "以家人之名",
+            "logo": "http://images.cnblogsc.com/pic/upload/vod/2020-08/1597065720.jpg",
+            "urls": {
+                "第01集": "https://iqiyi.cdn9-okzy.com/20200810/13776_98948e7f/index.m3u8",
+                "第02集": "https://iqiyi.cdn9-okzy.com/20200810/13780_66f74fe5/index.m3u8",
+                "第03集": "https://iqiyi.cdn9-okzy.com/20200811/13823_258b139c/index.m3u8",
+                "第04集": "https://iqiyi.cdn9-okzy.com/20200811/13826_e2f36aea/index.m3u8",
+                "第05集": "https://iqiyi.cdn9-okzy.com/20200812/13909_f91a1839/index.m3u8",
+                "第06集": "https://iqiyi.cdn9-okzy.com/20200812/13910_73bb7c4e/index.m3u8",
+                "第07集": "https://iqiyi.cdn9-okzy.com/20200813/13940_a9ee9990/index.m3u8",
+                "第08集": "https://iqiyi.cdn9-okzy.com/20200813/13943_00f15e2b/index.m3u8",
+                "第09集": "https://iqiyi.cdn9-okzy.com/20200814/13978_477fab5f/index.m3u8",
+                "第10集": "https://iqiyi.cdn9-okzy.com/20200815/14048_76cd4d0b/index.m3u8"
+            }
+        }
+    ]
+}
