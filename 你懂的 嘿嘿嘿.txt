@@ -1,4 +1,4 @@
-Export from 影音宝 - 听你想听的，看你想看的
+影音宝 - 听你想听的，看你想看的
 [Group]
 groupName=三级
 金瓶梅杨思敏版05,https://kuku.zuida-youku.com/20170616/RZ6bc9an/index.m3u8
